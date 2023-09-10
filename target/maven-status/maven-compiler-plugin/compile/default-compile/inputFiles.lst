@@ -1,0 +1,11 @@
+/Users/mervegulay/Projects/petclinic/src/main/java/com/javastudy/petclinic/repository/OwnerRepository.java
+/Users/mervegulay/Projects/petclinic/src/main/java/com/javastudy/petclinic/exception/OwnerNotFoundException.java
+/Users/mervegulay/Projects/petclinic/src/main/java/com/javastudy/petclinic/model/Owner.java
+/Users/mervegulay/Projects/petclinic/src/main/java/com/javastudy/petclinic/PetClinicProperties.java
+/Users/mervegulay/Projects/petclinic/src/main/java/com/javastudy/petclinic/model/Pet.java
+/Users/mervegulay/Projects/petclinic/src/main/java/com/javastudy/petclinic/repository/mem/OwnerRepositoryInMemoryImpl.java
+/Users/mervegulay/Projects/petclinic/src/main/java/com/javastudy/petclinic/service/PetClinicService.java
+/Users/mervegulay/Projects/petclinic/src/main/java/com/javastudy/petclinic/service/PetClinicServiceImpl.java
+/Users/mervegulay/Projects/petclinic/src/main/java/com/javastudy/petclinic/repository/PetRepository.java
+/Users/mervegulay/Projects/petclinic/src/main/java/com/javastudy/petclinic/controller/PetClinicController.java
+/Users/mervegulay/Projects/petclinic/src/main/java/com/javastudy/petclinic/PetClinicApplication.java
